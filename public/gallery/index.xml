@@ -13,28 +13,28 @@
       <link>//localhost:1313/gallery/post-4/</link>
       <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/gallery/post-4/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description></description>
     </item>
     <item>
       <title>Post 3</title>
       <link>//localhost:1313/gallery/post-3/</link>
       <pubDate>Wed, 06 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/gallery/post-3/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description></description>
     </item>
     <item>
       <title>Post 2</title>
       <link>//localhost:1313/gallery/post-2/</link>
       <pubDate>Tue, 05 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/gallery/post-2/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description></description>
     </item>
     <item>
       <title>Post 1</title>
       <link>//localhost:1313/gallery/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/gallery/post-1/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description></description>
     </item>
   </channel>
 </rss>

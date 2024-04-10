@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/vixen_ntc"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/vixen-ntc-88111a1a1"
+    },
+    {
+      "name": "behance",
+      "icon": "fab fa-behance",
+      "link": "https://www.behance.com/vixen_ntc"
+    },
+    {
+      "name": "pinterest",
+      "icon": "fab fa-pinterest",
+      "link": "https://www.pinterest.com/vixen_ntc"
+    }
+  ]
+}

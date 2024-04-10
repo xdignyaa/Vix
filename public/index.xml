@@ -6,42 +6,63 @@
     <description>Recent content on Hugoplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2022 00:00:00 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide to Cryptocurrency</title>
+      <link>//localhost:1313/guide/guide/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/guide/guide/</guid>
+      <description>Beginner&amp;rsquo;s Guide to Cryptocurrency Payments Description: Welcome to the world of cryptocurrency payments!</description>
+    </item>
     <item>
       <title>Post 4</title>
       <link>//localhost:1313/gallery/post-4/</link>
       <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/gallery/post-4/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description></description>
     </item>
     <item>
       <title>Post 3</title>
       <link>//localhost:1313/gallery/post-3/</link>
       <pubDate>Wed, 06 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/gallery/post-3/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description></description>
     </item>
     <item>
       <title>Post 2</title>
       <link>//localhost:1313/gallery/post-2/</link>
       <pubDate>Tue, 05 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/gallery/post-2/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description></description>
     </item>
     <item>
       <title>Post 1</title>
       <link>//localhost:1313/gallery/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/gallery/post-1/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+      <description></description>
     </item>
     <item>
-      <title>Appointment</title>
+      <title></title>
       <link>//localhost:1313/services/appointment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/services/appointment/</guid>
-      <description>I offer private sessions that can be booked according to availability.</description>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/services/booking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/booking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/services/consult/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/consult/</guid>
+      <description></description>
     </item>
     <item>
       <title>Elements</title>
@@ -58,11 +79,11 @@
       <description>I specialize in creating half sleeve tattoos. Whether you&amp;rsquo;re looking for a specific design or need help with a concept, I can provide the service you need.</description>
     </item>
     <item>
-      <title>Online Tattoo Consultation</title>
-      <link>//localhost:1313/services/consult/</link>
+      <title>John Doe</title>
+      <link>//localhost:1313/authors/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/consult/</guid>
-      <description>I offer online tattoo consultations. Whether you&amp;rsquo;re looking for design ideas or need help with a tattoo concept, I can provide the service you need.</description>
+      <guid>//localhost:1313/authors/john-doe/</guid>
+      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Piercing</title>
@@ -86,6 +107,13 @@
       <description></description>
     </item>
     <item>
+      <title>Sam Wilson</title>
+      <link>//localhost:1313/authors/sam-wilson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/sam-wilson/</guid>
+      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    <item>
       <title>Small Tattoo Session</title>
       <link>//localhost:1313/services/smalltattoo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,9 +129,9 @@
     </item>
     <item>
       <title>Tattoo Booking</title>
-      <link>//localhost:1313/services/booking/</link>
+      <link>//localhost:1313/services/book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/booking/</guid>
+      <guid>//localhost:1313/services/book/</guid>
       <description>I offer tattoo booking services. Whether you&amp;rsquo;re ready to get your next tattoo or need to schedule a session, I can provide the service you need.</description>
     </item>
     <item>
@@ -112,6 +140,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
+    </item>
+    <item>
+      <title>William Jacob</title>
+      <link>//localhost:1313/authors/william-jacob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/william-jacob/</guid>
+      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
   </channel>
 </rss>

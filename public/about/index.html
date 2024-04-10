@@ -216,7 +216,7 @@
 
 <script>
   let indexURL = "//localhost:1313/searchindex.json";
-  let includeSectionsInSearch = ["gallery"];
+  let includeSectionsInSearch = ["blog"];
   let no_results_for = "No results for";
   let empty_search_results_placeholder = "Type something to search..";
 </script>
@@ -602,6 +602,28 @@
                   <a
                     class="nav-dropdown-link "
                     
+                    href="/authors/">
+                    Authors
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/">
+                    Blog
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
                     href="/categories/">
                     Categories
                   </a>
@@ -615,28 +637,6 @@
                     
                     href="/contact/">
                     Contact
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/gallery/">
-                    Gallery
-                  </a>
-                </li>
-              
-                
-                
-                <li class="nav-dropdown-item">
-                  <a
-                    class="nav-dropdown-link "
-                    
-                    href="/services/">
-                    Services
                   </a>
                 </li>
               
@@ -870,44 +870,58 @@
 
     <main>
       
- <section>
-  <div class="container text-center">
-    <div
-      class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
-      <h1>About Me</h1>
-      
-
-
-
-
-<ul class="mt-6 inline-flex space-x-1 capitalize">
-  <li>
-    <a class="text-primary dark:text-darkmode-primary" href="//localhost:1313/">
-      Home
-    </a>
-    <span class="inlin-block mr-1">/</span>
-  </li>
-  
-    
-  
-  <li>
-    <span class="text-primary dark:text-darkmode-primary">
-      About Me
-    </span>
-  </li>
-</ul>
-
-    </div>
-  </div>
-</section>
-
-<section class="section-sm">
+  <section class="section-sm">
     <div class="container">
       <div class="row justify-center">
         <div class="md:col-10 lg:col-7 text-center">
           
-          <div class="content"><div class="profile-image-container"> 
-  <img src="/images/vixen.png" class="zoomed-image offset-y" alt="Social Image">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  <img
+    loading=""
+    decoding="async"
+    src="//localhost:1313/"
+    alt="About Me"
+    class="mx-auto mb-6 img"
+    height="200"
+    width="200" />
+
+
+          <h2 class="h3 mb-6">About Me</h2>
+          <div class="content"><div class="profile-image-container">
+<p><img alt="Social Image" src="/images/vixen.png"></p>
 </div>
 <blockquote>
 <p><em><strong>I am a tattoo artist and I am here to help you create your dream tattoo.</strong></em></p>
@@ -917,8 +931,9 @@
   <a href="https://www.instagram.com/vixen_ntc" class="social-link instagram"><i class="fab fa-instagram"></i></a>
   <a href="https://www.behance.net/vixen_ntc" class="social-link behance"><i class="fab fa-behance"></i></a>
   <a href="https://www.pinterest.com/vixen_ntc" class="social-link pinterest"><i class="fab fa-pinterest"></i></a>
-  <a href="https://www.linkedin.com/in/vixen-ntc-88111a1a1/" class="social-link linkedin"><i class="fab fa-linkedin"></i></a>
+  <a href="https://www.twiiter.com/in/vixen-ntc-88111a1a1/" class="social-link twitter"><i class="fab fa-twitter"></i></a>
 </div>
+<h2 id="call-to-action">Call-to-Action</h2>
 <h3 id="book-a-consultation">Book a Consultation</h3>
 <p>To book a consultation for your dream tattoo, click the button below:
 <a href="/contact"
@@ -1109,20 +1124,10 @@
             <li>
               <a
                 target="_blank"
-                aria-label="pinterest"
+                aria-label="twitter"
                 rel="nofollow noopener"
-                href="https://www.pinterest.com/vixen_ntc">
-                <i class="fab fa-pinterest"></i>
-              </a>
-            </li>
-          
-            <li>
-              <a
-                target="_blank"
-                aria-label="linkedin"
-                rel="nofollow noopener"
-                href="https://www.linkedin.com/in/vixen-ntc-88111a1a1/">
-                <i class="fab fa-linkedin"></i>
+                href="https://twitter.com/vixen-ntc-88111a1a1">
+                <i class="fab fa-twitter"></i>
               </a>
             </li>
           
@@ -1131,8 +1136,18 @@
                 target="_blank"
                 aria-label="behance"
                 rel="nofollow noopener"
-                href="https://www.behance.net/vixen_ntc">
+                href="https://www.behance.com/vixen_ntc">
                 <i class="fab fa-behance"></i>
+              </a>
+            </li>
+          
+            <li>
+              <a
+                target="_blank"
+                aria-label="pinterest"
+                rel="nofollow noopener"
+                href="https://www.pinterest.com/vixen_ntc">
+                <i class="fab fa-pinterest"></i>
               </a>
             </li>
           
@@ -1143,7 +1158,7 @@
   <div class="border-border dark:border-darkmode-border border-t py-7">
     <div class="text-light dark:text-darkmode-light container text-center">
       <p>
-        Designed &amp; Developed by <a href="https://xdignya.uk"
+        Designed &amp; Developed by <a href="https://zeon.studio"
 
 
 
@@ -1152,7 +1167,7 @@
  
 
 
->xdignya.uk</a>
+>Zeon Studio</a>
       </p>
     </div>
   </div>

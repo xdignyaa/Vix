@@ -9,10 +9,17 @@
     <lastBuildDate>Thu, 07 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Black</title>
-      <link>//localhost:1313/tags/black/</link>
+      <title>Tag1</title>
+      <link>//localhost:1313/tags/tag1/</link>
       <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/black/</guid>
+      <guid>//localhost:1313/tags/tag1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag2</title>
+      <link>//localhost:1313/tags/tag2/</link>
+      <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tag2/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +34,6 @@
       <link>//localhost:1313/tags/tag8/</link>
       <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/tag8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>White</title>
-      <link>//localhost:1313/tags/white/</link>
-      <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/white/</guid>
       <description></description>
     </item>
     <item>
@@ -62,20 +62,6 @@
       <link>//localhost:1313/tags/tag4/</link>
       <pubDate>Tue, 05 Apr 2022 05:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/tag4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag1</title>
-      <link>//localhost:1313/tags/tag1/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/tag1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag2</title>
-      <link>//localhost:1313/tags/tag2/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/tag2/</guid>
       <description></description>
     </item>
   </channel>

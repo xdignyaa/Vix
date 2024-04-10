@@ -8,11 +8,25 @@
     <language>en-us</language>
     <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Appointment</title>
+      <title></title>
       <link>//localhost:1313/services/appointment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/services/appointment/</guid>
-      <description>I offer private sessions that can be booked according to availability.</description>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/services/booking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/booking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/services/consult/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/consult/</guid>
+      <description></description>
     </item>
     <item>
       <title>Half Sleeve</title>
@@ -20,13 +34,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/services/sleeve/</guid>
       <description>I specialize in creating half sleeve tattoos. Whether you&amp;rsquo;re looking for a specific design or need help with a concept, I can provide the service you need.</description>
-    </item>
-    <item>
-      <title>Online Tattoo Consultation</title>
-      <link>//localhost:1313/services/consult/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/consult/</guid>
-      <description>I offer online tattoo consultations. Whether you&amp;rsquo;re looking for design ideas or need help with a tattoo concept, I can provide the service you need.</description>
     </item>
     <item>
       <title>Piercing</title>
@@ -51,9 +58,9 @@
     </item>
     <item>
       <title>Tattoo Booking</title>
-      <link>//localhost:1313/services/booking/</link>
+      <link>//localhost:1313/services/book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/services/booking/</guid>
+      <guid>//localhost:1313/services/book/</guid>
       <description>I offer tattoo booking services. Whether you&amp;rsquo;re ready to get your next tattoo or need to schedule a session, I can provide the service you need.</description>
     </item>
   </channel>

@@ -5,11 +5,11 @@
     <loc>//localhost:1313/</loc>
     <lastmod>2022-04-15T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/guide/</loc>
+    <loc>//localhost:1313/guide/guide/</loc>
     <lastmod>2022-04-15T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/black/</loc>
-    <lastmod>2022-04-07T05:00:00+00:00</lastmod>
+    <loc>//localhost:1313/guide/</loc>
+    <lastmod>2022-04-15T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2022-04-07T05:00:00+00:00</lastmod>
@@ -26,6 +26,12 @@
     <loc>//localhost:1313/gallery/post-4/</loc>
     <lastmod>2022-04-07T05:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/tag1/</loc>
+    <lastmod>2022-04-07T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/tag2/</loc>
+    <lastmod>2022-04-07T05:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/tag7/</loc>
     <lastmod>2022-04-07T05:00:00+00:00</lastmod>
   </url><url>
@@ -33,9 +39,6 @@
     <lastmod>2022-04-07T05:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2022-04-07T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/white/</loc>
     <lastmod>2022-04-07T05:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/category5/</loc>
@@ -77,15 +80,15 @@
     <loc>//localhost:1313/gallery/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tag1/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <loc>//localhost:1313/services/appointment/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/tag2/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <loc>//localhost:1313/services/booking/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/consult/</loc>
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>//localhost:1313/services/appointment/</loc>
+    <loc>//localhost:1313/authors/</loc>
   </url><url>
     <loc>//localhost:1313/contact/</loc>
   </url><url>
@@ -93,13 +96,15 @@
   </url><url>
     <loc>//localhost:1313/services/sleeve/</loc>
   </url><url>
-    <loc>//localhost:1313/services/consult/</loc>
+    <loc>//localhost:1313/authors/john-doe/</loc>
   </url><url>
     <loc>//localhost:1313/pages/</loc>
   </url><url>
     <loc>//localhost:1313/services/piercing/</loc>
   </url><url>
     <loc>//localhost:1313/privacy-policy/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/sam-wilson/</loc>
   </url><url>
     <loc>//localhost:1313/sections/</loc>
   </url><url>
@@ -109,6 +114,8 @@
   </url><url>
     <loc>//localhost:1313/services/john-doe/</loc>
   </url><url>
-    <loc>//localhost:1313/services/booking/</loc>
+    <loc>//localhost:1313/services/book/</loc>
+  </url><url>
+    <loc>//localhost:1313/authors/william-jacob/</loc>
   </url>
 </urlset>
