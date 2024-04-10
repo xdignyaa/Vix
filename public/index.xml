@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugoplate</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Hugoplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 4</title>
+      <link>//localhost:1313/gallery/post-4/</link>
+      <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/gallery/post-4/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <link>//localhost:1313/gallery/post-3/</link>
+      <pubDate>Wed, 06 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/gallery/post-3/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Post 2</title>
+      <link>//localhost:1313/gallery/post-2/</link>
+      <pubDate>Tue, 05 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/gallery/post-2/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>//localhost:1313/gallery/post-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/gallery/post-1/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
+    </item>
+    <item>
+      <title>Appointment</title>
+      <link>//localhost:1313/services/appointment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/appointment/</guid>
+      <description>I offer private sessions that can be booked according to availability.</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>//localhost:1313/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/elements/</guid>
+      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+    </item>
+    <item>
+      <title>Half Sleeve</title>
+      <link>//localhost:1313/services/sleeve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/sleeve/</guid>
+      <description>I specialize in creating half sleeve tattoos. Whether you&amp;rsquo;re looking for a specific design or need help with a concept, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>Online Tattoo Consultation</title>
+      <link>//localhost:1313/services/consult/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/consult/</guid>
+      <description>I offer online tattoo consultations. Whether you&amp;rsquo;re looking for design ideas or need help with a tattoo concept, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>Piercing</title>
+      <link>//localhost:1313/services/piercing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/piercing/</guid>
+      <description>I offer professional piercing services. Whether you&amp;rsquo;re looking for a new piercing or need help with an existing one, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>//localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/privacy-policy/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Small Tattoo Session</title>
+      <link>//localhost:1313/services/smalltattoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/smalltattoo/</guid>
+      <description>I specialize in small tattoo sessions. Whether you&amp;rsquo;re looking for a simple design or need to add to an existing tattoo, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>Tattoo Artist</title>
+      <link>//localhost:1313/services/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/john-doe/</guid>
+      <description>I am a professional tattoo artist with a passion for creating unique and meaningful designs.</description>
+    </item>
+    <item>
+      <title>Tattoo Booking</title>
+      <link>//localhost:1313/services/booking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/booking/</guid>
+      <description>I offer tattoo booking services. Whether you&amp;rsquo;re ready to get your next tattoo or need to schedule a session, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>What Users Are Saying About Hugoplate</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

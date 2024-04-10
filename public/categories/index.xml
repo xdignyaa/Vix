@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hugoplate</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Hugoplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category7</title>
+      <link>//localhost:1313/categories/category7/</link>
+      <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/category7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category8</title>
+      <link>//localhost:1313/categories/category8/</link>
+      <pubDate>Thu, 07 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/category8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category5</title>
+      <link>//localhost:1313/categories/category5/</link>
+      <pubDate>Wed, 06 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/category5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category6</title>
+      <link>//localhost:1313/categories/category6/</link>
+      <pubDate>Wed, 06 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/category6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category3</title>
+      <link>//localhost:1313/categories/category3/</link>
+      <pubDate>Tue, 05 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/category3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category4</title>
+      <link>//localhost:1313/categories/category4/</link>
+      <pubDate>Tue, 05 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/category4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category1</title>
+      <link>//localhost:1313/categories/category1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/category1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category2</title>
+      <link>//localhost:1313/categories/category2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/category2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

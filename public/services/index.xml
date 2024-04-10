@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Hugoplate</title>
+    <link>//localhost:1313/services/</link>
+    <description>Recent content in Services on Hugoplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appointment</title>
+      <link>//localhost:1313/services/appointment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/appointment/</guid>
+      <description>I offer private sessions that can be booked according to availability.</description>
+    </item>
+    <item>
+      <title>Half Sleeve</title>
+      <link>//localhost:1313/services/sleeve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/sleeve/</guid>
+      <description>I specialize in creating half sleeve tattoos. Whether you&amp;rsquo;re looking for a specific design or need help with a concept, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>Online Tattoo Consultation</title>
+      <link>//localhost:1313/services/consult/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/consult/</guid>
+      <description>I offer online tattoo consultations. Whether you&amp;rsquo;re looking for design ideas or need help with a tattoo concept, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>Piercing</title>
+      <link>//localhost:1313/services/piercing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/piercing/</guid>
+      <description>I offer professional piercing services. Whether you&amp;rsquo;re looking for a new piercing or need help with an existing one, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>Small Tattoo Session</title>
+      <link>//localhost:1313/services/smalltattoo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/smalltattoo/</guid>
+      <description>I specialize in small tattoo sessions. Whether you&amp;rsquo;re looking for a simple design or need to add to an existing tattoo, I can provide the service you need.</description>
+    </item>
+    <item>
+      <title>Tattoo Artist</title>
+      <link>//localhost:1313/services/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/john-doe/</guid>
+      <description>I am a professional tattoo artist with a passion for creating unique and meaningful designs.</description>
+    </item>
+    <item>
+      <title>Tattoo Booking</title>
+      <link>//localhost:1313/services/booking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/booking/</guid>
+      <description>I offer tattoo booking services. Whether you&amp;rsquo;re ready to get your next tattoo or need to schedule a session, I can provide the service you need.</description>
+    </item>
+  </channel>
+</rss>
