@@ -22,8 +22,8 @@ name = "Pages"
 
 [[main]]
 parent = "Pages"
-name = "Blog"
-pageRef = "/blog"
+name = "Gallery"
+pageRef = "/gallery"
 
 [[main]]
 parent = "Pages"
@@ -32,8 +32,8 @@ pageRef = "/contact"
 
 [[main]]
 parent = "Pages"
-name = "Authors"
-pageRef = "/authors"
+name = "Services"
+pageRef = "/services"
 
 [[main]]
 parent = "Pages"

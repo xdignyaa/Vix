@@ -4,9 +4,8 @@ social:
   image: "/images/vixen.png"
 blockquote: "I am a tattoo artist and I am here to help you create your dream tattoo."
 ---
-<div class="profile-image-container">
-
-  ![Social Image](/images/vixen.png)
+<div class="profile-image-container"> 
+  <img src="/images/vixen.png" class="zoomed-image" alt="Social Image">
 </div>
 
 > ***I am a tattoo artist and I am here to help you create your dream tattoo.***

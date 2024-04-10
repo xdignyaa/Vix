@@ -3321,13 +3321,15 @@ input#nav-toggle:checked ~ #nav-menu {
   border: 3px solid #333;
   border-radius: 50%;
   overflow: hidden;
-  position: absolute;
-  top: 50%;
+  position: relative;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
   justify-content: center;
-  align-items: center; }
+  align-items: center;
+  margin-top: 10%;
+  margin-bottom: -10%; }
 
 .profile-image-container img {
   max-width: 100%;
@@ -3335,7 +3337,7 @@ input#nav-toggle:checked ~ #nav-menu {
   object-fit: cover; }
 
 .zoomed-image {
-  transform: scale(1.2);
+  transform: scale(1.35);
   /* Adjust the value (1.2) to control the zoom level */ }
 
 .offset-x {
